@@ -1,2 +1,2 @@
-# REACTJS INRO
-## Beginning with WEBPACK
+# Intro to React
+## Beginning with webpack.
