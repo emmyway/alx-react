@@ -2,7 +2,7 @@
 const { fromJS } = require('immutable');
 
 // Function tha converts a plain Javascript object to an immutable 
-function getImmutableObject(object) => {
+function getImmutableObject(object) {
   return(fromJS(object));
 }
 
