@@ -1,5 +1,4 @@
 import { Map } from 'immutable';
-import { areMapsEqual } from './path-to-your-file';
 
 // Define two Immutable Maps
 const map1 = Map({
